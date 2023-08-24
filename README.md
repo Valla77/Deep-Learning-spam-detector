@@ -3,7 +3,6 @@
 </p>
 
 
-
 # Spam detection project - AT&T Orange SPAM detector
 
 This project has been presented as part of my **Machine Learning Engineer certificate** for the Jedha Data Fullstack program.
