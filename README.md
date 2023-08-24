@@ -1,6 +1,7 @@
-![GetAround logo](AT&T_logo.png)
+<p align="center">
+  <img src='att-logo.png'>
+</p>
 
-![GetAround logo](GetAround_logo.png)
 
 # Spam detection project - AT&T Orange SPAM detector
 
