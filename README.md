@@ -1,6 +1,7 @@
 <p align="center">
-  <img src='att-logo.png'>
+  <img src='AT&T_logo.png'>
 </p>
+
 
 
 # Spam detection project - AT&T Orange SPAM detector
