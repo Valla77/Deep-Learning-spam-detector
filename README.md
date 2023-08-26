@@ -28,7 +28,7 @@ To accomplish this project, your need to:
 Develop a notebook that conducts preprocessing and trains one or more deep learning models for predicting whether an SMS is spam or ham.
 Clearly present the attained performance outcomes.
 
-Review the project presentation : [Video Presentation](https://acsts-getaround-delay-analysis.herokuapp.com/)
+Review the project presentation : [Video Presentation](https://share.vidyard.com/watch/jQxFRHrBrQkF2Vho7kLC3J?)
 
 Author
 
